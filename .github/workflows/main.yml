@@ -17,3 +17,4 @@ jobs:
           timezone: Asia/Kolkata
           show-on-start: true
           show-on-exit: true
+          card-layout-exit: complete
