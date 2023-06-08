@@ -16,7 +16,6 @@ jobs:
           webhook-uri: ${{ secrets.MS_TEAMS_WEBHOOK_URI }}
           timezone: Asia/Kolkata
           environment: d6
-          show-on-failure: true
           show-on-start: true
           show-on-exit: true
           card-layout-exit: complete
